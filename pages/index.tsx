@@ -26,9 +26,9 @@ const Home: NextPage = () => {
           </div>
           <div className={styles.heroAssetFrame}>
             <Image
-              src="/hero-asset.png"
-              width={860}
-              height={540}
+              src="/DD-NFT.gif"
+              width={512}
+              height={512}
               alt="Hero asset, NFT marketplace"
               quality={100}
               className={styles.heroAsset}
