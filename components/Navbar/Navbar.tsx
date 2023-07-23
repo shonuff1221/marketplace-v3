@@ -24,11 +24,20 @@ export function Navbar() {
           </Link>
 
           <div className={styles.navMiddle}>
+          <Link href="https://digital-dividends.net" className={styles.link}>
+              Trading
+            </Link>
             <Link href="/buy" className={styles.link}>
               Buy
             </Link>
             <Link href="/sell" className={styles.link}>
               Sell
+            </Link>
+            <Link href="https://beta.digital-dividends.net" className={styles.link}>
+              Beta
+            </Link>
+            <Link href="https://docs.digital-dividends.net" className={styles.link}>
+              Docs
             </Link>
           </div>
         </div>
