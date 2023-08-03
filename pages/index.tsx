@@ -70,6 +70,13 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
+                  href="/ddt_token"
+                  target="_blank"
+                >
+                  Mint Token
+                </Link>
+                <Link
+                  className={styles.secondaryCta}
                   href="/sell"
                   target="_blank"
                 >
