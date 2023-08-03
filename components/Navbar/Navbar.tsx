@@ -30,6 +30,9 @@ export function Navbar() {
             <Link href="/buy" className={styles.link}>
               Buy
             </Link>
+            <Link href="/ddt_token" className={styles.link}>
+              Mint Token
+            </Link>
             <Link href="/sell" className={styles.link}>
               Sell
             </Link>
