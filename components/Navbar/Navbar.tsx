@@ -42,8 +42,8 @@ export function Navbar() {
             <Link href="https://docs.digital-dividends.net" className={styles.link}>
               Docs
             </Link>
-            //<iframe src="https://free.timeanddate.com/countdown/i8yvo8hv/n25/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pc03eceb/tcfff/fs100/szw320/szh135/tatDigital%20Dividends%20Launch%20in/tac000/tptDigital%20Dividends%20Launched/tpc000/mat%20/mac000/mpc000/iso2023-08-07T19:00:00/bas4/pa4" width="266px"
-     height="70px" ></iframe>
+            {/* <iframe src="https://free.timeanddate.com/countdown/i8yvms3e/n25/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pc03eceb/tcfff/fs100/szw320/szh135/tatDigital%20Dividends%20Launch%20in/tac000/tptDigital%20Dividends%20Launched/tpc000/mat%20/mac000/mpc000/iso2023-08-07T10:00:00/bas4/pa4" width="266px"
+     height="70px" ></iframe> */}
 
           </div>
         </div>
